@@ -1,0 +1,4 @@
+*.pyc
+bs4/*.pyc
+log/*
+cached/*
