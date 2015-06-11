@@ -1,0 +1,2 @@
+'level: 0'
+set(['http://cs.illinois.edu/directory/'])
